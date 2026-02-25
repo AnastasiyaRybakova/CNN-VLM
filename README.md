@@ -39,7 +39,6 @@ This hybrid architecture enables high-speed inference while preserving semantic 
 
 <img width="1641" height="866" alt="Fig 1 (1)" src="https://github.com/user-attachments/assets/b6ba9306-3b50-4344-8651-75253c58bf5c" />
 
- 
 ### Emotion_recognition
 #### Classify emotion for 5 cases: 1.angry 2.happy 3.sad 4.surprise 5.neutral
 
@@ -48,6 +47,8 @@ This hybrid architecture enables high-speed inference while preserving semantic 
 The real evironment experiment of CNN+VLM pilot study:
 
 <img width="1095" height="940" alt="Fig 2 (1)" src="https://github.com/user-attachments/assets/cb399904-1f5a-4297-931b-7db35bb93b8e" />
+
+These images show runtime behavior of the integrated CNN + Vision-Language pipeline.
 
 ### How to run the source code: 
     
