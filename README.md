@@ -49,4 +49,8 @@ The real evironment experiment of CNN+VLM pilot study:
 
 <img width="1095" height="940" alt="Fig 2 (1)" src="https://github.com/user-attachments/assets/cb399904-1f5a-4297-931b-7db35bb93b8e" />
 
-
+### How to run the source code: 
+    
+    python main.py 
+    
+For the system we have used RealSnse D435 camera and linux system.
